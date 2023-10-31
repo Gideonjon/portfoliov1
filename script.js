@@ -455,7 +455,7 @@ const SocialLinks = props => {
   return /*#__PURE__*/(
     React.createElement("div", { className: "social" }, /*#__PURE__*/
     React.createElement("a", {
-      href: "https://www.linkedin.com/in/valentine-onah/",
+      href: "?",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's LinkedIn" },
@@ -465,7 +465,7 @@ const SocialLinks = props => {
 
     React.createElement("a", {
       id: "profile-link",
-      href: "https://github.com/UcValentine?tab=repositories",
+      href: "https://github.com/Gideonjon?tab=repositories",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's GitHub Profile" },
@@ -474,7 +474,7 @@ const SocialLinks = props => {
     React.createElement("i", { className: "fab fa-github" })), /*#__PURE__*/
 
     React.createElement("a", {
-      href: "https://codepen.io/ValentineOnah",
+      href: "",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's Codepen Profile" },
